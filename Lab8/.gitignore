@@ -1,0 +1,16 @@
+/*/
+!software/
+*.qws
+*.done
+*.summary
+*.rpt
+*.smsg
+*.jdi
+*.sld
+*.pin
+*.qdf
+*.cdf
+*.sof
+*.qsf.bak
+*.force_relink
+PLLJ_PLLSPE_INFO.txt

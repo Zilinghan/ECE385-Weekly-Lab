@@ -1,0 +1,6 @@
+/*/
+!software/
+*.qws
+*.rpt
+*.qsf.bak
+*.force_relink
